@@ -11,7 +11,7 @@ use HtmlBuilder\Block as HtmlBlock;
  * 
  * @author Wellington Freire <contato@wellfreire.com.br>
  */
-class Html implements HtmlComponent
+class Html extends AbstractHtmlComponent implements HtmlComponent
 {
     /**
      * The HTML code
