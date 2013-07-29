@@ -1,4 +1,4 @@
 HtmlBuilder
 ===========
 
-An OO library for building HTML markup
+An embrionary attempt to create an OO library for building HTML markup
